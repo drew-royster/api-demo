@@ -6,6 +6,6 @@
 
 `conda install fastapi`
 
-`conda install "uvicorn[standard]`
+`conda install "uvicorn[standard]"`
 
 `uvicorn main:app`
